@@ -1,16 +1,16 @@
-#Apache NiFi
+# Apache NiFi
 
-##Introduction
+## Introduction
 
 For a quick introduction on Apache NiFi you can read the [this article](https://www.freecodecamp.org/news/nifi-surf-on-your-dataflow-4f3343c50aa2/).
 
-##Repo structure
+## Repo structure
 
 This repository contains 2 folders: one with some **templates** that I find very useful to get to know how some things can be achieved and the other with **examples** that I've made.
 
-##Development
+## Development
 
-###JSON_conversions
+### JSON_conversions
 
 This dataflow shows how to manage JSON objects (in this example a generated response from a REST API) and convert them into some other formats.
 It selects some fields and builds:
